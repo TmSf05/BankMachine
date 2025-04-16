@@ -1,6 +1,7 @@
 # BankMachine
  
 Create a simple banking system.
+
 1.The system should be able to
 	a.enroll new account holders
 	b.check how much balance an account holder have
